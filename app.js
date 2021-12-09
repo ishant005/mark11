@@ -12,7 +12,7 @@ function compareValues(sum,luckyNumber){
     }
 
 } else{
-    outputBox.innerText="Lucky number cannot be negative";
+    outputBox.innerText="Please enter valid input";
 }
 }
 
